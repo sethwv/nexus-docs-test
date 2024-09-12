@@ -8,7 +8,7 @@ parent: 'Arknights'
 
 ![ARK](https://cdn.discordapp.com/emojis/1270456178421534761.png)
 
-### `[GWSIX6JJA25P4QEK](https://clipboard.nexus-codes.app/?copy=GWSIX6JJA25P4QEK)`
+### [`GWSIX6JJA25P4QEK`](https://clipboard.nexus-codes.app/?copy=GWSIX6JJA25P4QEK)
 
 200 Furniture Parts, Ten Strategic Battle Records, 1 2k Orundum, and 20k Lmd
 
