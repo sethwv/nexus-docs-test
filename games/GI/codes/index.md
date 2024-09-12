@@ -10,10 +10,10 @@ parent: 'Genshin Impact'
 
 ## Codes Known to Nexus.
 
-Codes are not by Nexus checked for expiry and are only preiodically pruned, therefore codes listed here may no longer be valid.
+Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-2 }
 
-undefined### [`HHHA5Z81O5UK`](https://genshin.hoyoverse.com/en/gift?code=HHHA5Z81O5UK)
+### [`HHHA5Z81O5UK`](https://genshin.hoyoverse.com/en/gift?code=HHHA5Z81O5UK)
 
 20k Mora, 15 Adventurer S Experience, and Ten Fine Enhancement Ore
 

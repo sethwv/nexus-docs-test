@@ -10,10 +10,10 @@ parent: 'Raid: Shadow Legends'
 
 ## Codes Known to Nexus.
 
-Codes are not by Nexus checked for expiry and are only preiodically pruned, therefore codes listed here may no longer be valid.
+Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-2 }
 
-undefined### [`amberfall2gt`](https://clipboard.nexus-codes.app/?copy=amberfall2gt)
+### [`amberfall2gt`](https://clipboard.nexus-codes.app/?copy=amberfall2gt)
 
 Date Added: Wed Sep 11 2024 05:40:01 GMT-0400 (Eastern Daylight Time)
 

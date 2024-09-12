@@ -10,10 +10,10 @@ parent: 'Wuthering Waves'
 
 ## Codes Known to Nexus.
 
-Codes are not by Nexus checked for expiry and are only preiodically pruned, therefore codes listed here may no longer be valid.
+Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-2 }
 
-undefined### [`BAHAMUTKXMHM`](https://clipboard.nexus-codes.app/?copy=BAHAMUTKXMHM)
+### [`BAHAMUTKXMHM`](https://clipboard.nexus-codes.app/?copy=BAHAMUTKXMHM)
 
 5k Shell Credits, Five Medium Resonance Potions, and Five Medium Energy Cores
 

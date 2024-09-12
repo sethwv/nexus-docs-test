@@ -10,10 +10,10 @@ parent: 'AFK Journey'
 
 ## Codes Known to Nexus.
 
-Codes are not by Nexus checked for expiry and are only preiodically pruned, therefore codes listed here may no longer be valid.
+Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-2 }
 
-undefined### [`AFKJ10`](https://clipboard.nexus-codes.app/?copy=AFKJ10)
+### [`AFKJ10`](https://clipboard.nexus-codes.app/?copy=AFKJ10)
 
 10 Regular Invite Letters
 

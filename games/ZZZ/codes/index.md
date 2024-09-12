@@ -10,10 +10,10 @@ parent: 'Zenless Zone Zero'
 
 ## Codes Known to Nexus.
 
-Codes are not by Nexus checked for expiry and are only preiodically pruned, therefore codes listed here may no longer be valid.
+Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-2 }
 
-undefined### [`KANURBT5MQ8D`](https://zenless.hoyoverse.com/redemption?code=KANURBT5MQ8D)
+### [`KANURBT5MQ8D`](https://zenless.hoyoverse.com/redemption?code=KANURBT5MQ8D)
 
 40 Polychromes
 

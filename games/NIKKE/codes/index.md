@@ -10,10 +10,10 @@ parent: 'Goddess of Victory: Nikke'
 
 ## Codes Known to Nexus.
 
-Codes are not by Nexus checked for expiry and are only preiodically pruned, therefore codes listed here may no longer be valid.
+Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-2 }
 
-undefined### [`792Z1L4FN`](https://clipboard.nexus-codes.app/?copy=792Z1L4FN)
+### [`792Z1L4FN`](https://clipboard.nexus-codes.app/?copy=792Z1L4FN)
 
 Gem X100
 
