@@ -8,7 +8,12 @@ parent: 'AFK Journey'
 
 ![AFK](https://cdn.discordapp.com/emojis/1264987657306509384.png)
 
-### [`AFKJ10`](https://clipboard.nexus-codes.app/?copy=AFKJ10)
+## Codes Known to Nexus.
+
+Codes are not by Nexus checked for expiry and are only preiodically pruned, therefore codes listed here may no longer be valid.
+{: .fs-2 }
+
+undefined### [`AFKJ10`](https://clipboard.nexus-codes.app/?copy=AFKJ10)
 
 10 Regular Invite Letters
 

@@ -8,7 +8,12 @@ parent: 'Wuthering Waves'
 
 ![WUWA](https://cdn.discordapp.com/emojis/1266477000583811232.png)
 
-### [`BAHAMUTKXMHM`](https://clipboard.nexus-codes.app/?copy=BAHAMUTKXMHM)
+## Codes Known to Nexus.
+
+Codes are not by Nexus checked for expiry and are only preiodically pruned, therefore codes listed here may no longer be valid.
+{: .fs-2 }
+
+undefined### [`BAHAMUTKXMHM`](https://clipboard.nexus-codes.app/?copy=BAHAMUTKXMHM)
 
 5k Shell Credits, Five Medium Resonance Potions, and Five Medium Energy Cores
 

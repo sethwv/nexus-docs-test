@@ -8,7 +8,12 @@ parent: 'Goddess of Victory: Nikke'
 
 ![NIKKE](https://cdn.discordapp.com/emojis/1270446040415207535.png)
 
-### [`792Z1L4FN`](https://clipboard.nexus-codes.app/?copy=792Z1L4FN)
+## Codes Known to Nexus.
+
+Codes are not by Nexus checked for expiry and are only preiodically pruned, therefore codes listed here may no longer be valid.
+{: .fs-2 }
+
+undefined### [`792Z1L4FN`](https://clipboard.nexus-codes.app/?copy=792Z1L4FN)
 
 Gem X100
 

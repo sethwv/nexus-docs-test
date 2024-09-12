@@ -8,7 +8,12 @@ parent: 'Raid: Shadow Legends'
 
 ![RAID](https://cdn.discordapp.com/emojis/1265002064136900669.png)
 
-### [`amberfall2gt`](https://clipboard.nexus-codes.app/?copy=amberfall2gt)
+## Codes Known to Nexus.
+
+Codes are not by Nexus checked for expiry and are only preiodically pruned, therefore codes listed here may no longer be valid.
+{: .fs-2 }
+
+undefined### [`amberfall2gt`](https://clipboard.nexus-codes.app/?copy=amberfall2gt)
 
 Date Added: Wed Sep 11 2024 05:40:01 GMT-0400 (Eastern Daylight Time)
 

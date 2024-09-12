@@ -8,7 +8,12 @@ parent: 'Honkai Star Rail'
 
 ![HSR](https://cdn.discordapp.com/emojis/1264987654198399137.png)
 
-### [`CM25RWG44W62`](https://hsr.hoyoverse.com/gift?code=CM25RWG44W62)
+## Codes Known to Nexus.
+
+Codes are not by Nexus checked for expiry and are only preiodically pruned, therefore codes listed here may no longer be valid.
+{: .fs-2 }
+
+undefined### [`CM25RWG44W62`](https://hsr.hoyoverse.com/gift?code=CM25RWG44W62)
 
 Three Traveler S Guides and 30k Credits
 

@@ -8,7 +8,12 @@ parent: 'Arknights'
 
 ![ARK](https://cdn.discordapp.com/emojis/1270456178421534761.png)
 
-### [`GWSIX6JJA25P4QEK`](https://clipboard.nexus-codes.app/?copy=GWSIX6JJA25P4QEK)
+## Codes Known to Nexus.
+
+Codes are not by Nexus checked for expiry and are only preiodically pruned, therefore codes listed here may no longer be valid.
+{: .fs-2 }
+
+undefined### [`GWSIX6JJA25P4QEK`](https://clipboard.nexus-codes.app/?copy=GWSIX6JJA25P4QEK)
 
 200 Furniture Parts, Ten Strategic Battle Records, 1 2k Orundum, and 20k Lmd
 
