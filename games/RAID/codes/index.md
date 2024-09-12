@@ -11,26 +11,30 @@ parent: 'Raid: Shadow Legends'
 ## Codes Known to Nexus.
 
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
-{: .fs-2 }
+{: .fs-3 }
 
 ### [`amberfall2gt`](https://clipboard.nexus-codes.app/?copy=amberfall2gt)
 
-Added Wed Sep 11 2024 05:40:01 GMT-0400 (Eastern Daylight Time){: .fs-2 }
+Added Sep 11, 2024
+{: .fs-2 }
 
 ### [`raidxotk`](https://clipboard.nexus-codes.app/?copy=raidxotk)
 
-Added Wed Aug 07 2024 05:40:00 GMT-0400 (Eastern Daylight Time){: .fs-2 }
+Added Aug 7, 2024
+{: .fs-2 }
 
 ### [`NINJARETURNS`](https://clipboard.nexus-codes.app/?copy=NINJARETURNS)
 
 **New Players Only**
 Ninja, Four Energy Refills, and 4x 20 Multibattles
 
-Added Wed Jul 31 2024 10:40:00 GMT-0400 (Eastern Daylight Time){: .fs-2 }
+Added Jul 31, 2024
+{: .fs-2 }
 
 ### [`wefinallyplayedit`](https://clipboard.nexus-codes.app/?copy=wefinallyplayedit)
 
-Added Wed Jul 31 2024 10:40:00 GMT-0400 (Eastern Daylight Time){: .fs-2 }
+Added Jul 31, 2024
+{: .fs-2 }
 
 ### [`FREEFROG`](https://clipboard.nexus-codes.app/?copy=FREEFROG)
 
