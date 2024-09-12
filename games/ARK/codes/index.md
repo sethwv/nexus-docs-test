@@ -15,5 +15,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 ### [`GWSIX6JJA25P4QEK`](https://clipboard.nexus-codes.app/?copy=GWSIX6JJA25P4QEK)
 
-200 Furniture Parts, Ten Strategic Battle Records, 1 2k Orundum, and 20k Lmd \Added Aug 22, 2024
+200 Furniture Parts, Ten Strategic Battle Records, 1 2k Orundum, and 20k Lmd\
+Added Aug 22, 2024
 {: .fs-2 }
