@@ -1,0 +1,8 @@
+node_modules/
+jspm_packages/
+.npm
+
+config.json
+*.disabled
+
+*.DS_Store

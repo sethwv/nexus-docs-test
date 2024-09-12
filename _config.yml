@@ -1,0 +1,12 @@
+title: "Nexus"
+remote_theme: pmarsceill/just-the-docs
+color_scheme: siren
+url: https://nexus.swvn.io
+
+logo: "/assets/css/logo-small.png"
+
+aux_links:
+   "Add Nexus to Your Server":
+     - "https://invite.nexus-codes.app"
+   "Nexus Support Server":
+     - "https://support.nexus-codes.app"
