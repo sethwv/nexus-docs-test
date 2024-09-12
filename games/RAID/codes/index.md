@@ -15,22 +15,22 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 ### [`amberfall2gt`](https://clipboard.nexus-codes.app/?copy=amberfall2gt)
 
-Date Added: Wed Sep 11 2024 05:40:01 GMT-0400 (Eastern Daylight Time)
+Added Wed Sep 11 2024 05:40:01 GMT-0400 (Eastern Daylight Time){: .fs-2 }
 
 ### [`raidxotk`](https://clipboard.nexus-codes.app/?copy=raidxotk)
 
-Date Added: Wed Aug 07 2024 05:40:00 GMT-0400 (Eastern Daylight Time)
+Added Wed Aug 07 2024 05:40:00 GMT-0400 (Eastern Daylight Time){: .fs-2 }
 
 ### [`NINJARETURNS`](https://clipboard.nexus-codes.app/?copy=NINJARETURNS)
 
 **New Players Only**
 Ninja, Four Energy Refills, and 4x 20 Multibattles
 
-Date Added: Wed Jul 31 2024 10:40:00 GMT-0400 (Eastern Daylight Time)
+Added Wed Jul 31 2024 10:40:00 GMT-0400 (Eastern Daylight Time){: .fs-2 }
 
 ### [`wefinallyplayedit`](https://clipboard.nexus-codes.app/?copy=wefinallyplayedit)
 
-Date Added: Wed Jul 31 2024 10:40:00 GMT-0400 (Eastern Daylight Time)
+Added Wed Jul 31 2024 10:40:00 GMT-0400 (Eastern Daylight Time){: .fs-2 }
 
 ### [`FREEFROG`](https://clipboard.nexus-codes.app/?copy=FREEFROG)
 
