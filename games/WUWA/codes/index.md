@@ -15,18 +15,15 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 ### [`BAHAMUTKXMHM`](https://clipboard.nexus-codes.app/?copy=BAHAMUTKXMHM)
 
-5k Shell Credits, Five Medium Resonance Potions, and Five Medium Energy Cores\
+5k Shell Credits, Five Medium Resonance Potions, and Five Medium Energy Cores \
 Added Jul 26, 2024
-{: .fs-2 }
 
 ### [`WUTHERINGGIFT`](https://clipboard.nexus-codes.app/?copy=WUTHERINGGIFT)
 
-Two Premium Resonance Potions, Two Medium Revival Inhalers, Two Medium Energy Bags, 10k Shell Credits, and 50 Astrite\
+Two Premium Resonance Potions, Two Medium Revival Inhalers, Two Medium Energy Bags, 10k Shell Credits, and 50 Astrite \
 Added Jul 26, 2024
-{: .fs-2 }
 
 ### [`DCARD3VN7M`](https://clipboard.nexus-codes.app/?copy=DCARD3VN7M)
 
-5k Shell Credits, Five Medium Resonance Potions, and Five Medium Energy Cores\
+5k Shell Credits, Five Medium Resonance Potions, and Five Medium Energy Cores \
 Added Jul 26, 2024
-{: .fs-2 }

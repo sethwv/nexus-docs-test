@@ -15,36 +15,30 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 ### [`KANURBT5MQ8D`](https://zenless.hoyoverse.com/redemption?code=KANURBT5MQ8D)
 
-40 Polychromes\
+40 Polychromes \
 Added Oct 7, 2024
-{: .fs-2 }
 
 ### [`CATCHABOO`](https://zenless.hoyoverse.com/redemption?code=CATCHABOO)
 
-30 Polychromes\
+30 Polychromes \
 Added Oct 7, 2024
-{: .fs-2 }
 
 ### [`BANDP43VWC7H`](https://zenless.hoyoverse.com/redemption?code=BANDP43VWC7H)
 
-60 Polychrome and 6,666 Denny\
+60 Polychrome and 6,666 Denny \
 Added Aug 15, 2024
-{: .fs-2 }
 
 ### [`ZENLESSGIFT`](https://zenless.hoyoverse.com/redemption?code=ZENLESSGIFT)
 
-50 Polychromes + materials\
+50 Polychromes + materials \
 Added Apr 7, 2024
-{: .fs-2 }
 
 ### [`ZENLESSLAUNCH`](https://zenless.hoyoverse.com/redemption?code=ZENLESSLAUNCH)
 
-60 Polychromes + Dennies\
+60 Polychromes + Dennies \
 Added Apr 7, 2024
-{: .fs-2 }
 
 ### [`ZZZ2024 / ZZZTVCM`](https://zenless.hoyoverse.com/redemption?code=ZZZ2024%20%2F%20ZZZTVCM)
 
-50 Polychromes + Dennies\
+50 Polychromes + Dennies \
 Added Apr 7, 2024
-{: .fs-2 }
