@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Copy Test
+title: Copy Code
 nav_order: 99
 search_exclude: true
 ---
@@ -9,9 +9,9 @@ search_exclude: true
     code {
         font-family: 'Consolas', Courier, monospace;
         background-color: #FFF;
-        padding: 10px;
-        border-radius: 10px;
-        box-shadow: 1px 1px 10px #222 inset;
+        padding: 20px;
+        border-radius: 3px;
+        box-shadow: 1px 1px 2px #222 inset;
     }
 
     .content {
@@ -25,7 +25,7 @@ search_exclude: true
 <body onload="
     (function() {
         const searchParams = new URLSearchParams(window.location.search);
-        const copy = searchParams.get('copy');
+        const copy = searchParams.get('code');
         document.getElementById('copy').innerHTML = copy;
     })();
 ">
