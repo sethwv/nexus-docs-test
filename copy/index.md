@@ -1,32 +1,7 @@
----
-layout: default
-title: Copy Code
-nav_order: 99
-search_exclude: true
-nav_exclude: true
----
-
-<style>
-    code {
-        font-family: 'Consolas', Courier, monospace;
-        background-color: #FFF;
-        padding: 8px !important;
-        border-radius: 3px;
-        /* box-shadow: 1px 1px 2px #222 inset; */
-    }
-
-    .content {
-        /* background-color: #AAA !important; */
-        padding: 20px;
-        /* border-radius: 10px; */
-        /* box-shadow: 1px 1px 10px #AAA; */
-    }
-</style>
-
 <body onload="
     (function() {
-        const searchParams = new URLSearchParams(window.location.search);
-        const copy = searchParams.get('code');
+        const searchParams = window.location.search.substring(1); // Remove the leading '?'
+        const copy = searchParams ? decodeURIComponent(searchParams) : ''; // Decode and assign
         document.getElementById('copy').innerHTML = copy;
     })();
 ">
