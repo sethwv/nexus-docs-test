@@ -35,20 +35,23 @@ nav_exclude: true
             (function() {
                 const textArea = document.createElement('textarea');
                 textArea.value = document.getElementById('copy').innerHTML;
-                textArea.style.opacity = 0;
+                textArea.style.opacity = '0';
                 document.body.appendChild(textArea);
                 textArea.focus();
                 textArea.select();
                 try {
                     const success = document.execCommand('copy');
-                    alert(`${success ? `Success! Copied ${textArea.value} to clipboard.` : 'Something went wrong, please manually copy.'}`);
+                    alert(success 
+                        ? `Success! Copied ${textArea.value} to clipboard.` 
+                        : 'Something went wrong, please manually copy.');
                 } catch (err) {
                     console.error(err.name, err.message);
                 }
                 document.body.removeChild(textArea);
             })();
         ">
-            <h1>Click or tap here to copy <code id="copy"></code> to your clipboard.</h1>
+            <h1>Click or tap here to copy <code id='copy'></code> to your clipboard.</h1>
         </div>
     </div>
 </body>
+
