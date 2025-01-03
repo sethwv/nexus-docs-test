@@ -48,7 +48,7 @@ nav_exclude: true
                 document.body.removeChild(textArea);
             })();
         ">
-            <h1>Click or tap here to copy <code id="copy"></code> to your clipboard.</h2>
+            <h1>Click or tap here to copy <code id="copy"></code> to your clipboard.</h1>
         </div>
     </div>
 </body>
