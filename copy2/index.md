@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Copy Code
+title: Copy Test
 nav_order: 99
 search_exclude: true
 ---
@@ -9,9 +9,9 @@ search_exclude: true
     code {
         font-family: 'Consolas', Courier, monospace;
         background-color: #FFF;
-        padding: 20px;
+        padding: 8px !important;
         border-radius: 3px;
-        box-shadow: 1px 1px 2px #222 inset;
+        /* box-shadow: 1px 1px 2px #222 inset; */
     }
 
     .content {
@@ -47,7 +47,7 @@ search_exclude: true
                 document.body.removeChild(textArea);
             })();
         ">
-            <h1>Click/Tap here to copy <code id="copy"></code> to clipboard.</h1>
+            <h2>Click or tap here to copy <code id="copy"></code> to your clipboard.</h2>
         </div>
     </div>
 </body>
